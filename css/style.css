@@ -1,0 +1,41 @@
+body {
+    background: #D8D8D8;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+header{
+    margin-top: 70px; /*distancia que eu quero acima 
+    do meu elemento. Ex: "minha página" e "contato"*/
+}
+h1{
+    color: rgb(31, 21, 119);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+    margin-left: 90px;
+}
+
+P{
+font-size: 18px;
+}
+/*img{
+    margin-bottom: 20px; /*Distancia que quero abaixo 
+    do meu elemento
+}*/
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px; /*posso definir esses tamanhos tanto aqui
+    quanto no arquivo index.html*/
+}
+
+.logo{
+    width: 30px;
+}
+
+footer{
+    margin-bottom: 50px;
+}
